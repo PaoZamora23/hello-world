@@ -1,2 +1,5 @@
 # hello-world
-Practica de sistemas operativos
+Grupo EVN303
+Martha Ceci Morales Almanza
+Daniel Gonzales Sanchez
+Alma Paola Zamora Muñoz
