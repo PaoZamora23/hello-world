@@ -1,5 +1,3 @@
-# hello-world
-Grupo EVN303
-Martha Ceci Morales Almanza
-Daniel Gonzales Sanchez
-Alma Paola Zamora Muñoz
+#hello-world
+Esta es la descripción
+esta es una clasede Sistemas operativos
